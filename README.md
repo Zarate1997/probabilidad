@@ -9,7 +9,7 @@ Puedes consultar el libro del curso en formato HTML desde nuestro [Bookdown](htt
 
 También tienes todas las distribuciones de probabilidad en nuestro [Shiny interactivo](https://joanby.shinyapps.io/DistribucionesNotables/).
 
-Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido de probabilidad del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
+Asienta las bases para convertirte en el *Data Scientist* del futuro con todo el contenido de probabilidad del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
 
 +  Prerrequisitos
 1. Probabilidad
